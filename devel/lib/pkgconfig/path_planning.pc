@@ -1,0 +1,8 @@
+prefix=/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/devel
+
+Name: path_planning
+Description: Description of path_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
