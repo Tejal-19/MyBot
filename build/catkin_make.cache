@@ -1,2 +1,2 @@
-path_planning
+bot_description
 -DCATKIN_DEVEL_PREFIX=/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/devel -DCMAKE_INSTALL_PREFIX=/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/install -G Unix Makefiles

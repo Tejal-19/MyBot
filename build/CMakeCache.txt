@@ -262,6 +262,12 @@ _gtest_INCLUDES:FILEPATH=/usr/include/gtest/gtest.h
 //Path to a file.
 _gtest_SOURCES:FILEPATH=/usr/src/gtest/src/gtest.cc
 
+//Value Computed by CMake
+bot_description_BINARY_DIR:STATIC=/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/build/bot_description
+
+//Value Computed by CMake
+bot_description_SOURCE_DIR:STATIC=/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/src/bot_description
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/kinetic/share/catkin/cmake
 

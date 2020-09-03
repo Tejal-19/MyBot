@@ -126,7 +126,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/build/gtest/cmake_install.cmake")
-  include("/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/build/path_planning/cmake_install.cmake")
+  include("/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/build/bot_description/cmake_install.cmake")
 
 endif()
 

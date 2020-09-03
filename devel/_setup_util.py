@@ -270,7 +270,7 @@ if __name__ == '__main__':
 
         if not args.local:
             # environment at generation time
-            CMAKE_PREFIX_PATH = '/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/devel;/home/tejal/ros20_workshop_codes/ros20_ws/devel;/home/tejal/catkin_ws/devel;/opt/ros/kinetic'.split(';')
+            CMAKE_PREFIX_PATH = '/home/tejal/ros20_workshop_codes/ros20_ws/devel;/home/tejal/catkin_ws/devel;/opt/ros/kinetic'.split(';')
         else:
             # don't consider any other prefix path than this one
             CMAKE_PREFIX_PATH = []
