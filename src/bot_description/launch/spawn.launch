@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <launch>
 
-    <param name="bot_description" command="$ (find xacro)/xacro.py '(find bot_description)/urdf/mybot.xacro'" />
+    <param name="bot_description" command="$(find xacro)/xacro.py '$(find bot_description)/urdf/mybot.xacro'" />
 
     <arg name="x" default="0"/>
     <arg name="y" default="0"/>
@@ -11,3 +11,4 @@
           args="-urdf -param bot_description -model mybot -x $(arg x) -y $(arg y) -z $(arg z)" />
 
 </launch>
+

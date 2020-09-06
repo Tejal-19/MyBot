@@ -1,0 +1,8 @@
+prefix=/home/tejal/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/install
+
+Name: worlds
+Description: Description of worlds
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
