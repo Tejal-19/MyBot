@@ -3,9 +3,9 @@
 <robot name="mybot" xmlns:xacro="http://www.ros.org/wiki/xacro">
 
 <!-- Include the Xacro files -->
-  <xacro:include filename="$(find bot_design)/urdf/materials.xacro" />  
-  <xacro:include filename="$(find bot_design)/urdf/gazebo.xacro" />
-  <xacro:include filename="$(find bot_design)/urdf/macro.xacro" />
+  <xacro:include filename="$(find bot_description)/urdf/materials.xacro" />  
+  <xacro:include filename="$(find bot_description)/urdf/mybot.gazebo" />
+  <xacro:include filename="$(find bot_description)/urdf/macro.xacro" />
 
 
  <!-- chassis definition -->
@@ -28,7 +28,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <cylinder length="0.05" radius="0.5"/>
+        <cylinder length="0.05" radius="0.3"/>
       </geometry>
       <material name="blue"/>
     </visual>
