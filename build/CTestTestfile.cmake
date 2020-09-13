@@ -6,4 +6,5 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs(gtest)
 subdirs(bot_description)
+subdirs(path_planning)
 subdirs(worlds)
