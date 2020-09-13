@@ -21,14 +21,14 @@ I have wriiten a urdf for the robot design and basic concepts of path planning a
 
 ### Tech Stack
 Software used for this project :  
-   [ROS](http://wiki.ros.org/kinetic)
-   [GAZEBO](http://wiki.ros.org/gazebo_ros_pkgs)
+  * [ROS](http://wiki.ros.org/kinetic)
+  * [GAZEBO](http://wiki.ros.org/gazebo_ros_pkgs)
    
 ## Getting Started
 
 ### Prerequisites
   * ROS(Kinetic)
-  *GAZEBO(7)
+  * GAZEBO(7)
   
 
 ### Installation
