@@ -16,7 +16,7 @@
 * [License](#license)
 
 ## About The Project
-![Final Scene](Screenshot from 2020-09-13 12-08-11.png)  
+![Final Scene](https://github.com/Tejal-19/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/blob/master/Screenshot%20from%202020-09-13%2012-08-11.png)  
 
 The aim of the project is used to simulate a two_wheeled robot using ROS and GAZEBO and make it avoid the obstacles by writting a python script.
 I have wriiten a urdf for the robot design and basic concepts of path planning are used to avoid obstacles.
@@ -46,7 +46,7 @@ Software used for this project :
 3. Use proper package path and model name for launch files
 
 ### Results and Demo
-* ![**Before Starting Simulation**](Screenshot from 2020-09-13 12-08-11.png)
+* ![**Before Starting Simulation**](https://github.com/Tejal-19/Obstacle_avoidance-bot-using-ROS-and-GAZEBO/blob/master/Screenshot%20from%202020-09-13%2012-08-11.png)
 * [**Video of Final Scene**](https://youtu.be/0w1SfuEGP0o)  
 
 ## Contributors
