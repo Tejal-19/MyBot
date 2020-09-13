@@ -15,6 +15,7 @@
 * [License](#license)
 
 ## About The Project
+![Final scene](Screenshot from 2020-09-13 12-08-11.png)
 
 The aim of the project is used to simulate a two_wheeled robot using ROS and GAZEBO and make it avoid the obstacles by writting a python script.
 I have wriiten a urdf for the robot design and basic concepts of path planning are used to avoid obstacles.
