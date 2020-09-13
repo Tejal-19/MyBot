@@ -46,6 +46,7 @@ Software used for this project :
 3. Use proper package path and model name for launch files
 
 ### Results and Demo
+![**Before Starting Simulation**](Screenshot from 2020-09-13 12-08-11.png)
 [**Video of Final Scene**](https://youtu.be/0w1SfuEGP0o)  
 
 ## Contributors
