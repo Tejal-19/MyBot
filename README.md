@@ -51,7 +51,7 @@ Software used for this project :
 
 ## Contributors
  * MENTOR
-   * NEHA KURIAN:https://github.com/Neha-Kurian
+   * [NEHA KURIAN](https://github.com/Neha-Kurian)
  * MEMBER
    * [Ms. Tejal Bedmutha](https://github.com/Tejal-19) : tezzb18@gmail.com
   
