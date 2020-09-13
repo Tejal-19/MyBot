@@ -12,7 +12,7 @@ def main():
     rospy.spin()
 
 def callback_laser(msg):
-    # 145 degrees sensor divided into 3 sensors
+    # 120 degrees sensor divided into 3 sensors
 	sensors = {
       'RIGHT' : min(min(msg.ranges[0:2]), 10),
       'FRONT' : min(min(msg.ranges[3:5]), 10),
