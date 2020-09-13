@@ -57,7 +57,8 @@ Software used for this project :
 ## License
   MIT License  
   
-  Copyright (c) 2020 Tejal Bedmutha   
+  Copyright (c) 2020 Tejal Bedmutha.
+  Go to [License](LICENSE) for full license. 
  
  
 
