@@ -1,4 +1,5 @@
 # Obstacle_avoidance-bot-using-ROS-and-GAZEBO
+ Simuulation of a urdf differential drive robot in ROS and GAZEBO which avoids obstacles
 ## Table of Contents
 * [About the Project](#about-the-project)
   * [Tech Stack](#tech-stack)
@@ -43,6 +44,9 @@ Software used for this project :
 1. Check the required versions of the software are correctly installed as it gives a lot of errors which doesn't mention this problem.
 2. Check the identation while writing codes
 3. Use proper package path and model name for launch files
+
+### Results and Demo
+[**Video of Final Scene**](https://youtu.be/0w1SfuEGP0o)  
 
 ## Contributors
  * MENTOR
